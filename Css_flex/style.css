@@ -1,0 +1,68 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  text-align: center;
+  font-weight: 600;
+  margin-top: 26px;
+}
+
+.fcontenar {
+    display: flex;
+    /* border: 0 solid black; */
+    /* height: 45vh; */
+    background-color: #bddadaad;
+    justify-content: center;
+    align-items:baseline;
+     width: 157vh;
+    text-align: center;
+    margin-top: 37px;
+    /* margin-left: 196px;  */
+    border-radius: 17px;
+}
+
+.fitem {
+    background-color: white;
+    border: 0 solid gray;
+    margin: 18px;
+    width: 139px;
+    height: 145px;
+    border-radius: 17px;
+    text-align: center;
+}
+
+.fa-brands, .fab {
+    font-weight: 400;
+    margin-top: 20px;
+    font-size: 20px;
+    color: blue;
+    background-color: #bddadaad;
+}
+
+.fa-solid, .fas {
+    font-weight: 900;
+    margin-top: 20px;
+    font-size: 20px;
+    color: blue;
+    background-color: #bddadaad;
+}
+
+.fa-regular, .far {
+    font-weight: 400;
+    margin-top: 21px;
+    font-size: 19px;
+    color: blue;
+    background-color: #bddadaad;
+}
+.course {
+    text-align: center;
+    margin-top: 7px;
+}
+.no {
+    text-align: center;
+    margin-top: 7px;
+    color: blue;
+    font-weight: 600;
+}
